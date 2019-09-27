@@ -1,2 +1,1 @@
-# papers
-Some paper work in master's life
+Learn to use and deploy Jenkins.
